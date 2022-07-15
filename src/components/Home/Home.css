@@ -1,0 +1,23 @@
+.float-container {
+    margin-top:2em;
+    border: 3px solid #fff;
+    padding: 20px;
+    
+}
+
+.float-child1 {
+    width: 45%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+    height:30em;
+    overflow: scroll;
+}  
+.float-child2 {
+    width: 45%;
+    float: right;
+    padding: 20px;
+    border: 2px solid red;
+    height:30em;
+    overflow: scroll;
+}  
